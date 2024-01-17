@@ -1,6 +1,6 @@
 # Project Name
 
-Case Study for the bike sharing service BookBikes
+Case Study for  bike sharing service "BookBikes"
 
 
 ## Problem Statement
